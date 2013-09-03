@@ -1,0 +1,15 @@
+# IDEA
+/*.iml
+/.idea
+/.idea_modules
+
+# SBT
+/target
+/project/target
+/project/project/target
+
+# JVM error log
+/hs_err_pid*.log
+
+# YASS
+/api.war
